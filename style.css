@@ -9,14 +9,14 @@ padding: 30px;
 text-align: center;
 color: hwb(0 93% 4%);
 font-family: Arial, sans-serif;
-font-size: 24px;
+font-size: 20px;
 }
 nav a:hover {
     background-color: #646972;
 }
 header p {
     color: #f4f4f4;
-    font-size: 26px;
+    font-size: 15px;
 }
 header nav ul {
     list-style: none;
@@ -30,12 +30,13 @@ header nav ul li a {
     color: hwb(0 93% 4%);
     text-decoration: none;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 0.7cm;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 .articulo {
     display: flex;
